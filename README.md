@@ -9,5 +9,5 @@ Author: dreed
 Remote repository connected.
 ## Experimental Section
 
-Testing a new approach.
+Testing a new approach.  
 Results were promising.
